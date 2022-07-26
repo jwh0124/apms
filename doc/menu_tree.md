@@ -4,6 +4,9 @@
 
 ## Menu Tree (ordering)
 
+- Dashboard
 - Player
 - Match
+- User
+- Role
 - Setting
